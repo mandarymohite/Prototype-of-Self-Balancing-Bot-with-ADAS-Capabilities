@@ -1,8 +1,5 @@
 /* ========================================================================== */
 /*  motors.c  –  Motor driver for Self-Balancing Robot with ADAS              */
-/*                                                                            */
-/*  Original: Akash Patil and Vidhya Palaniappan  (5/5/2024)                 */
-/*  ADAS Extension: Added differential-speed steering for ADAS manoeuvres    */
 /* ========================================================================== */
 
 #include <stdio.h>
