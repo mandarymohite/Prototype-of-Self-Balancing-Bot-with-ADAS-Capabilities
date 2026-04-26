@@ -1,9 +1,6 @@
 /* ========================================================================== */
 /*  mySegway.c  –  Self-Balancing Robot  ·  with ADAS Extension              */
 /*                                                                            */
-/*  Original authors : Akash Patil and Vidhya Palaniappan  (5/5/2024)        */
-/*  ADAS extension   : integrated Service 4 + adas.h/adas.c subsystem        */
-/*                                                                            */
 /*  Architecture                                                              */
 /*  ──────────────────────────────────────────────────────────────────────    */
 /*  Sequencer (SCHED_FIFO, max prio) @ 800 Hz                                */
